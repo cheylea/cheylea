@@ -3,7 +3,7 @@
 I'm Cheylea!
 
 - 🔭 I’m currently building new and exciting data infrastructure for Southampton City Council, and working on some fun side projects to develop my Python skills.
-- 🌱 I’ve just finished my Master's degree in computer science and tentatively await results!
+- 🌱 I finished my Master's degree in computer science and acheived a Distinction!
 - 👯 I’m looking to collaborate on anything interesting - drop me a message!
 
 
