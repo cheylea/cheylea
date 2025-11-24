@@ -2,7 +2,7 @@
 
 I'm Cheylea!
 
-- 🔭 I’m currently building new and exciting data infrastructure for Southampton City Council, and working on some fun side projects to develop my Python skills.
+- 🔭 I’m currently building new and exciting data infrastructure for Southampton City Council, and soon moving on in December! On the side I'm working on some fun projects to develop my Python skills. You can find out all about in on my [website and blog](https://cheylea.github.io/)!
 - 🌱 I finished my Master's degree in computer science and acheived a Distinction!
 - 👯 I’m looking to collaborate on anything interesting - drop me a message!
 
